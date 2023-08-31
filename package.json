@@ -1,5 +1,5 @@
 {
-  "name": "@jroman-pinc/passport",
+  "name": "@jromanel/passport",
   "version": "0.6.0",
   "description": "Simple, unobtrusive authentication for Node.js.",
   "keywords": [
@@ -10,7 +10,7 @@
     "authentication"
   ],
   "publishConfig": {
-    "@jroman-pinc:registry": "https://npm.pkg.github.com"
+    "@jromanel:registry": "https://registry.npmjs.org"
   },
   "author": {
     "name": "Jared Hanson",
